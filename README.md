@@ -35,7 +35,7 @@ Wait for the server to launch, then go to:
 - Keep the already sent email adresses to autocomplete on next use,
 - Properly show the html instead of the default materialize.css which is sometimes weird,
 - Send a full text version along the html one for compatibility.
-- 
+
 ### License
 
 MIT
