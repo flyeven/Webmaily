@@ -1,0 +1,60 @@
+<template name="compose">
+
+    <main>
+
+        <form>
+
+            <div class="row z-depth-1">
+
+                <!-- to and subject -->
+                <div class="row section">
+                    <div class="input-field blue-text col s6">
+                        <i class="material-icons blue-text text-lighten-3 prefix">account_circle</i>
+                        <input class="validate" data-error="You're email isn't valid" id="to" name="to" placeholder="Send email to" type="email">
+                        <label for="to">To:</label>
+                    </div>
+                    <div class="input-field blue-text col s6">
+                        <i class="material-icons blue-text text-lighten-3 prefix">comment</i>
+                        <input class="validate" id="subject" name="subject" placeholder="Your email subject" type="text">
+                        <label for="subject">Subject:</label>
+                    </div>
+                </div>
+
+                <div class="divider"></div>
+
+            </div>
+
+            <div class="row">
+
+                <!-- editor -->
+                <div class="row section">
+                    <div class="row">
+                        <div class="input-field col s6">
+                            {{> editor}}
+                            <label for="editor">Your markdown text</label>
+                        </div>
+                        <div class="col s6">
+                            <div id="html">
+                                {{{html}}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Send email button -->
+            <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+                <button class="btn-floating btn-large blue lighten-2 send" type="submit">
+                    <i class="large material-icons">send</i>
+                </button>
+            </div>
+
+        </form>
+
+    </main>
+
+</template>
+
+<template name="editor">
+    <textarea class="materialize-textarea" id="editor" name="mdData"></textarea>
+</template>

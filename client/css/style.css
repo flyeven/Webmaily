@@ -1,0 +1,10 @@
+.brand-logo img{
+    padding-top: 15px;
+    padding-left: 10px;
+}
+.row{
+    margin-bottom: 0;
+}
+textarea.materialize-textarea{
+    border-bottom: none;
+}

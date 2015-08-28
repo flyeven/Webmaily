@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="100"
+   viewBox="0 0 400 100"
+   id="svg4376"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="webmaily.svg">
+  <defs
+     id="defs4378" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6413793"
+     inkscape:cx="86.775209"
+     inkscape:cy="-7.1428571"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1167"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4381">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36216)">
+    <g
+       id="g236"
+       transform="matrix(0.35608657,0,0,-0.35608657,184.36172,968.66634)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         d="m 0,0 c -1.191,0.34 -42.329,27.268 -89.513,25.361 -38.351,0.685 -78.937,-18.646 -116.594,-56.93 -7.66,-0.255 -15.398,-0.333 -23.212,-0.168 -64.601,-0.094 -124.398,14.724 -168.281,32.596 -43.846,17.353 -71.778,37.762 -71.779,36.838 1.142,0.917 13.361,-31.024 53.057,-66.313 33.493,-30.24 87.755,-62.995 155.089,-70.985 -35.971,-44.763 -70.805,-79.12 -103.308,-92.687 -39.012,-19.59 -70.223,-10.762 -73.17,-10.004 3.54,-0.912 42.331,-27.266 89.515,-25.362 48.464,-0.869 100.504,30.203 145.685,91.14 45.18,60.938 89.049,109.693 129.343,126.509 C -34.158,9.585 -2.928,0.835 0,0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path238"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.66365623px;line-height:125%;font-family:NORMAL;-inkscape-font-specification:'NORMAL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="200.68068"
+       y="1009.7847"
+       id="text4135"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4137"
+         x="200.68068"
+         y="1009.7847">WEBMAILY</tspan></text>
+  </g>
+</svg>
